@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.svn/format
+*.svn-base
+SyncToy_a97f20c6-6d0c-41c1-83e6-5a1bbd5614ba.dat
+*.db
