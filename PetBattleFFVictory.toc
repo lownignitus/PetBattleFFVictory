@@ -1,8 +1,8 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: |cff00ff00Pet Battle FF Victory|r
-## Version: |cffFF4500v1.2.6|r
+## Version: |cffFF4500v1.2.7|r
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
-## X-Date: 30/08/2017
+## X-Date: 11/12/2017
 ## Notes: Provides FF Victory sound for winning a pet battle
 # Plays a fail sound that is toggleable
 # Plays a toggleable level up sound
