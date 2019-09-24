@@ -1,6 +1,6 @@
 -- Title: Pet Battle FF Victory
 -- Author: LownIgnitus
--- Version: 1.2.8
+-- Version: 1.2.9
 -- Desc: A simple addon to change the victory sound for pet battles
 -- Added Functionality to play fail sound and toggle its use
 
